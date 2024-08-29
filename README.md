@@ -2,5 +2,5 @@
 Intro repository for PF lab at FAST NUCES
 
 # Big Heading
-## Smaller HEading
+## Smaller Heading
 ### Smallest heading
